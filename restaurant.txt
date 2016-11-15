@@ -1,0 +1,23 @@
+Alt y n
+Bar y n
+Fri y n
+Hun y n
+Pat n s f
+Price 1 2 3
+Rain y n
+Res y n
+Type f i t b
+Est 1 2 3 4
+
+ynnys3nyf1,1
+ynnyf1nnt3,-1
+nynns1nnb1,1
+ynyyf1ynt2,1
+ynynf3nyf4,-1
+nynys2yyi1,1
+nynnn1ynb1,-1
+nnnys2yyt1,1
+nyynf1ynb4,-1
+yyyyf3nyi2,-1
+nnnnn1nnt1,-1
+yyyyf1nnb3,1
