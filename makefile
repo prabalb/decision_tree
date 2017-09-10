@@ -1,6 +1,6 @@
 OBJS = main.o decisionTree.o
 CC = g++
-DEBUG = -g -O3
+DEBUG = -g -O3 -ansi -pedantic
 CFLAGS = -Wall -fPIC -c $(DEBUG)
 LFLAGS = -Wall $(DEBUG)
 
